@@ -1,4 +1,4 @@
-package sample.datastruce;
+package sample.datastructure;
 
 import java.util.HashMap;
 import java.util.Map;
